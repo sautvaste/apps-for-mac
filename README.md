@@ -8,15 +8,23 @@
 - eul -> performance status
 - mos
 - Shottr -> screenshot
-- eqmac -> allow to change volume of monitor through HDMI
+- SpeakerAMP
+- iTerm2
 
 ### 效率工具
 
 - uTools
-
 - ClashX
-- Clipy -> clipboard management
+- Clipy
 
 ### 笔记
 
 - Typora
+- 语雀
+
+### Command Line Tools
+
+- thefuck
+- autojump
+- tmux
+- atuin -> command history
