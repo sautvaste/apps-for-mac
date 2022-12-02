@@ -28,3 +28,4 @@
 - autojump
 - tmux
 - atuin -> command history
+
