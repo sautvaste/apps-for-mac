@@ -19,8 +19,7 @@
 
 ### 笔记
 
-- Typora
-- 语雀
+- Obsidian
 
 ### Command Line Tools
 
