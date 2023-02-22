@@ -20,6 +20,8 @@
 ### 笔记
 
 - Obsidian
+- Drafts
+- CotEditor
 
 ### Command Line Tools
 
