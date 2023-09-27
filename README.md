@@ -20,6 +20,7 @@
 ### 笔记
 
 - Obsidian
+- Notion
 - Drafts
 - CotEditor
 
@@ -28,5 +29,5 @@
 - thefuck
 - autojump
 - tmux
-- atuin -> command history
+- direnv
 
